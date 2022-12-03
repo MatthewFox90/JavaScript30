@@ -33,19 +33,22 @@ body,html {
 }
 
 .playing {
-  transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  transform: scale(1.2);
+  border-color: #bb2649;
+  box-shadow: 0 0 1rem #bb2649;
 }
 
 kbd {
   display: block;
   font-size: 4rem;
+  color: #26bb98;
+  font-weight: 900;
 }
 
 .sound {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: #ffc600;
+  color: #bb2649;
+  font-weight: 900;
 }
